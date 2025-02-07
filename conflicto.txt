@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 # nueva acciòn de conflicto
 1.1.  red
 1.2 canal
+=======
+<<<<<<< HEAD
+Prueba Conflicto 
+=======
+Hola como esta mundooo
+>>>>>>> e717e34bcdb42be5a2cb3a83c2179c62ebf4d706
+>>>>>>> 3fdd23b1d682f887c801af69d879020f9e642b66
