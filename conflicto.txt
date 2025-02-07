@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Prueba Conflicto 
+=======
+Hola como esta mundooo
+>>>>>>> e717e34bcdb42be5a2cb3a83c2179c62ebf4d706
